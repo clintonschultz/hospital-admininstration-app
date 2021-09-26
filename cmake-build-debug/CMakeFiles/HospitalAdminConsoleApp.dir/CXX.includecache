@@ -1,0 +1,66 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/clintonschultz/Desktop/Spring 2021 NKU/Advanced Programming Methods/HospitalAdminConsoleApp/CompareByPriority.cpp
+Patient.h
+/Users/clintonschultz/Desktop/Spring 2021 NKU/Advanced Programming Methods/HospitalAdminConsoleApp/Patient.h
+Logger.h
+/Users/clintonschultz/Desktop/Spring 2021 NKU/Advanced Programming Methods/HospitalAdminConsoleApp/Logger.h
+
+/Users/clintonschultz/Desktop/Spring 2021 NKU/Advanced Programming Methods/HospitalAdminConsoleApp/HospitalMethods.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+map
+-
+queue
+-
+unistd.h
+-
+Patient.h
+/Users/clintonschultz/Desktop/Spring 2021 NKU/Advanced Programming Methods/HospitalAdminConsoleApp/Patient.h
+Logger.h
+/Users/clintonschultz/Desktop/Spring 2021 NKU/Advanced Programming Methods/HospitalAdminConsoleApp/Logger.h
+CompareByPriority.cpp
+/Users/clintonschultz/Desktop/Spring 2021 NKU/Advanced Programming Methods/HospitalAdminConsoleApp/CompareByPriority.cpp
+
+/Users/clintonschultz/Desktop/Spring 2021 NKU/Advanced Programming Methods/HospitalAdminConsoleApp/Logger.h
+string
+-
+
+/Users/clintonschultz/Desktop/Spring 2021 NKU/Advanced Programming Methods/HospitalAdminConsoleApp/Patient.h
+vector
+-
+string
+-
+Logger.h
+/Users/clintonschultz/Desktop/Spring 2021 NKU/Advanced Programming Methods/HospitalAdminConsoleApp/Logger.h
+
+/Users/clintonschultz/Desktop/Spring 2021 NKU/Advanced Programming Methods/HospitalAdminConsoleApp/main.cpp
+HospitalMethods.cpp
+/Users/clintonschultz/Desktop/Spring 2021 NKU/Advanced Programming Methods/HospitalAdminConsoleApp/HospitalMethods.cpp
+Patient.h
+/Users/clintonschultz/Desktop/Spring 2021 NKU/Advanced Programming Methods/HospitalAdminConsoleApp/Patient.h
+Logger.h
+/Users/clintonschultz/Desktop/Spring 2021 NKU/Advanced Programming Methods/HospitalAdminConsoleApp/Logger.h
+iostream
+-
+fstream
+-
+vector
+-
+map
+-
+queue
+-
+

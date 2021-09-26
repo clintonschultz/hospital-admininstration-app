@@ -1,0 +1,13 @@
+"log.txt" logger file was opened
+patient1 created
+patient2 created
+patient3 created
+Main menu was accessed
+Main menu selection was made
+addPatient() was successfully called
+addPatient() has finished
+Main menu was accessed
+Main menu selection was made
+ize of treatedPatients pre treatPatient: treatPatient() was successfully called
+treatPatient() has finished
+ze of treatedPatients post treatPatient: The user has ended the session
